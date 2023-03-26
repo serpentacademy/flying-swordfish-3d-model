@@ -6,5 +6,5 @@
 <p>2. Share any artworks, animations or wwork modifications with serpentnaturae@gmail.com</p>
 <p>Any derivative work is shared by Apes Ascendance original creator and you co-author if you own an NFT.</p>
 
-<h1>Why this License</h1>
+<h1>Why this License?</h1>
 <p>The idea is to collaborate with the community to own the 3D and Character animations</p>
